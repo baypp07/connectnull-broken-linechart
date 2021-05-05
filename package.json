@@ -1,0 +1,8 @@
+{
+  "name": "1hjyqc.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "billboard.js": "^2.0.3"
+  }
+}
